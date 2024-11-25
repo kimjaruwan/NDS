@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuoNDS", "YMTWEB\QuoNDS.csproj", "{00EF51EF-6B51-4415-B555-C4D31BA140CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00EF51EF-6B51-4415-B555-C4D31BA140CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EF51EF-6B51-4415-B555-C4D31BA140CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EF51EF-6B51-4415-B555-C4D31BA140CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EF51EF-6B51-4415-B555-C4D31BA140CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {566E712A-3FDF-459F-9B65-EDF4246E2D94}
+	EndGlobalSection
+EndGlobal
